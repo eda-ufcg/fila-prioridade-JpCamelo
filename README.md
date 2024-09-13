@@ -1,6 +1,6 @@
 # Identificação
 
-* Nome: João Pedro Campos
+* Nome: João Pedro Campos Camelo
 * Email (@ccc): joao.pedro.campos.camelo@ccc.ufcg.edu.br
 * Matrícula: 123110791
 
